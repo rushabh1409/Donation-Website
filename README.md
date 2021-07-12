@@ -7,6 +7,6 @@ Once the payment is done and invoice will be generated and email will be sent to
 Some Important Terms
 - Instamojo is used as the 3rd party for the payment gateway. This is only for testing purpose.
 - credit card details : Credit card number - 4242 4242 4242 4242
-- Expiry date : 01/21(or anything)
+- Expiry date : anything
 - CVV : 111
 - Password - 1221
